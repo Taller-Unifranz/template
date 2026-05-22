@@ -58,11 +58,11 @@ Subirás tu rama a GitHub y crearás un Pull Request para integrar tus cambios a
 
 Completa la siguiente información:
 
-| Dato            | Información |
-| --------------- | ----------- |
-| Nombre Completo |             |
-| Carrera         |             |
-| Semestre        |             |
+| Dato            | Información         |
+| --------------- | ------------------- |
+| Nombre Completo | Christopher Huayhua |
+| Carrera         | Sitemas             |
+| Semestre        | 10                  |
 
 ---
 
